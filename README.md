@@ -17,6 +17,7 @@ Install my-project with git-cli.
   pip install PySide6
   gh repo clone https://github.com/rajsingh010/EnPass
   cd EnPass
+  python main.py
 ```
     
 ## Documentation
